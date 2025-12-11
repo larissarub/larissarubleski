@@ -7,7 +7,22 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -15,7 +30,7 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 />
 <img 
     align="left" 
@@ -23,17 +38,19 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
     title="API"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 />
 <img 
     align="left" 
     alt="RPA" 
     title="RPA"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;" />
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework-original.svg" 
 />
 
+<br/>
+<br/>
 
 
 ## 📫 Conecte-se Comigo
