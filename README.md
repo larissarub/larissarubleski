@@ -7,54 +7,45 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
 ---
 
 ### 🤖 Linguagens e Tecnologias
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
     <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+      alt="JavaScript" 
+      title="JavaScript"
+      width="40px" 
+      height="40px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    />
+    <span style="font-weight: bold; margin-top: 5px;">JavaScript</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
+    <img 
+      alt="Python" 
+      title="Python"
+      width="40px" 
+      height="40px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    />
+    <span style="font-weight: bold; margin-top: 5px;">Python</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
+    <img 
+      alt="SQL" 
+      title="SQL - Azure Database"
+      width="40px" 
+      height="40px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    />
+    <span style="font-weight: bold; margin-top: 5px;">SQL</span>
+  </div>
+</div>
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-/>
-<img 
-    align="left" 
-    alt="API" 
-    title="API"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-/>
-<img 
-    align="left" 
-    alt="RPA" 
-    title="RPA"
-    width="30px" 
-    style="padding-right: 10px;" />
- 
-/>
-<br/>
-<br/>
-
+---
 
 ## 📫 Conecte-se Comigo
 
 📧 **Email:** rubleski.larissa@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/larissarubleski](https://www.linkedin.com/in/larissarubleski)
-
-
