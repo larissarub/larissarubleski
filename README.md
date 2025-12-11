@@ -6,14 +6,6 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
 
 ---
 
-# 👩🏻‍💻 Larissa Rubleski
-
-**`Desenvolvedora Back-End`**
-
-Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente estou cursando Análise de Desenvolvimento de Sistemas na Unopar. Sou apaixonada por tecnologia, especialmente por criar automações que simplificam tarefas do dia a dia e por explorar o mundo das APIs para conectar sistemas e dados.
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -137,8 +129,4 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
 📧 **Email:** seu.email@exemplo.com  
 🔗 **LinkedIn:** [linkedin.com/in/larissarubleski](https://www.linkedin.com/in/larissarubleski)
 
-
-## Contato  
-- Email: rubleski.larissa@gmail.com  
-- Linkedin: [larissarubleski](www.linkedin.com/in/larissarubleski)
 
