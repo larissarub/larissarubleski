@@ -34,6 +34,8 @@ Me chamo Larissa Rubleski, tenho 24 anos e sou natural do Paraná. Atualmente es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework-original.svg" 
 />
 
+
+
 ## 📫 Conecte-se Comigo
 
 📧 **Email:** rubleski.larissa@gmail.com  
