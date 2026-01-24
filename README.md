@@ -10,57 +10,64 @@ Busco oportunidades como **Analista de Dados Júnior / Trainee**.
 
 ---
 
-### 📊 Ferramentas e Tecnologias
+<h3>📊 Ferramentas e Tecnologias</h3>
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; gap: 12px;">
 
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
-    <img 
-      alt="Excel" 
-      title="Microsoft Excel"
-      width="40px" 
-      height="40px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+  <div style="display: flex; align-items: center; height: 40px;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
+      alt="Excel"
+      width="28"
+      height="28"
+      style="margin-right: 12px;"
     />
-    <span style="font-weight: bold; margin-top: 5px;">Excel</span>
+    <span style="line-height: 1; display: flex; align-items: center;">
+      Excel
+    </span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
-    <img 
-      alt="Power BI" 
-      title="Power BI"
-      width="40px" 
-      height="40px"
+  <div style="display: flex; align-items: center; height: 40px;">
+    <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+      alt="Power BI"
+      width="28"
+      height="28"
+      style="margin-right: 12px;"
     />
-    <span style="font-weight: bold; margin-top: 5px;">Power BI</span>
+    <span style="line-height: 1; display: flex; align-items: center;">
+      Power BI
+    </span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
-    <img 
-      alt="Python" 
-      title="Python"
-      width="40px" 
-      height="40px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+  <div style="display: flex; align-items: center; height: 40px;">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      alt="Python"
+      width="28"
+      height="28"
+      style="margin-right: 12px;"
     />
-    <span style="font-weight: bold; margin-top: 5px;">Python</span>
+    <span style="line-height: 1; display: flex; align-items: center;">
+      Python
+    </span>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center; min-width: 70px;">
-    <img 
-      alt="SQL" 
-      title="SQL"
-      width="40px" 
-      height="40px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+  <div style="display: flex; align-items: center; height: 40px;">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
+      alt="SQL"
+      width="28"
+      height="28"
+      style="margin-right: 12px;"
     />
-    <span style="font-weight: bold; margin-top: 5px;">SQL</span>
+    <span style="line-height: 1; display: flex; align-items: center;">
+      SQL
+    </span>
   </div>
 
 </div>
 
----
 
 ## 📫 Conecte-se comigo
 
